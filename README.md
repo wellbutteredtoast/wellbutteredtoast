@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wellbutteredtoast
-- 👀 I’m interested in Python as well as C/C++ programming
+- 👀 I’m interested in Python and C/C++ programming
 - 🌱 I’m currently learning Python in university, C/C++ on my own time
 - 💞️ I’m looking to collaborate on anything Python
 - 📫 How to reach me ... nah, not yet. Soon.

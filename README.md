@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @wellbutteredtoast
-- 👀 I’m interested in Python and C/C++ programming
-- 🌱 I’m currently learning Python in university, C/C++ on my own time
-- 💞️ I’m looking to collaborate on anything Python
-- 📫 How to reach me ... nah, not yet. Soon.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 99% of gamblers quit before they hit it big! :D
+Hello, I am me! I do things sometimes, I'm in university, which is cool.
 
+![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+
+![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 <!---
 wellbutteredtoast/wellbutteredtoast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

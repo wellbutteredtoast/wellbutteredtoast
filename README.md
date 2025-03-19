@@ -1,5 +1,9 @@
 I am Sam, a full time student of the [Memorial University of Newfoundland](https://mun.ca), majoring in the field of Computer Science, minoring in Statistics. I currently do not work in the field of tech, however I am growing my network in the local community. I like cats, and nice to read code (for the most part).
 
+
+![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
 # Primary Development Languages
 
 ## Python
@@ -27,17 +31,3 @@ I am also tinkering with the functional language of Haskell, some projects may a
 # Highlighted Projects
 
 This is looking awful empty... at least for now, once I finish some things up, this section is going to grow quite large...
-
-# [GitHub Stats](https://gh-stats-gen.vercel.app/)
-
-**An overview of my profile:**
-
-![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-
-**My top languages:**
-
-![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
-
-**My total commits and longest streak of activity:**
-
-![wellbutteredtoast's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wellbutteredtoast&theme=material-palenight&hide_border=true)

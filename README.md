@@ -1,17 +1,43 @@
-Hello, I am me! I do things sometimes, I'm in university, which is cool. I like languages with elegant syntax such as Python and Ruby, but I am decently versed in other languages such as Bash for my Linux/Mac devices, Powershell for Windows scripting, C# which I dabble with outside of classes, and modern languages built for safety and systems development like Rust and Zig.
+I am Sam, a full time student of the [Memorial University of Newfoundland](https://mun.ca), majoring in the field of Computer Science, minoring in Statistics. I currently do not work in the field of tech, however I am growing my network in the local community. I like cats, and nice to read code (for the most part).
 
-I'm majoring in Computer Science, concentrating in Data Centric Science and a minors in Probability in Statistics at [MUN](https://www.mun.ca/computerscience/). There are also other languages I occastionally have to be subjected to like Java. Ah well, such is life. This is a mix of personal and educational projects as I go through my primary degree, and then my future in potential graduate studies and my secondary degree in Education.
+# Primary Development Languages
 
-I'm also a member of the [MUN Computer Science Society](https://github.com/MUNComputerScienceSociety) -- however I am not *very active* within the community.
+## Python
 
-**My Github README Stats** -- created [here](https://gh-stats-gen.vercel.app/)
+My most proficient programming language by years of experience is Python. I started learning Python in my spare time during the lockdowns of 2020. I use it primarily for small projects and LeetCode problems, and occasional game development prototypes in [pygame-ce](https://pyga.me). Python is also the language I primarily use on campus. 
 
-![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+For me; Python is a productive language because of how quickly I can spin up a solution without needing to worry to much about static types or a rigid syntax like C++, Rust, among others. It's also fairly fast for an interpreted language, providing rather rapid solutions for most of my day to day issues or problems.
 
-**My Most Used Languages**
+## C++
 
-![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<!---
-wellbutteredtoast/wellbutteredtoast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+C++ is a powerful language, and it was quite the step up from Python when I started learning C++. I'm learning C++ because of its use in all parts of software development, from applications to game engines to low level systems like the Windows Kernel and many embedded devices and IoT systems around the world. I also tinker with graphics and game development in C++, but as of the time of writing of this I don't have anything that is worth sharing (yet).
+
+## Rust
+
+Rust is the newest language in my repetoire. Being a bit more dense than C++, and having a more pedantic compilation system. Rust is insanely fast, and extremely powerful. So far I have been using it to write CLI tools such as my currently WIP [rfzf](https://github.com/wellbutteredtoast/fuzzyfind-rs), which is a Rust re-write of the already existing [fzf](https://github.com/junegunn/fzf) utility. I believe that when it comes to level and secure systems, Rust is the future in my opinion. I will continue to use both C++ *and* Rust for the forseeable future.
+
+## Ba$h
+
+Bash is a really helpful language for working in a UNIX environment, such as a Linux server, or my Mac that I carry with me. Bash is quirky, and helpful when doing shell shenanigans. I wouldn't exactly use it for anything *big*, but small utilities that are quickly pulled together is what I use it for most, also Python [(venv)](https://docs.python.org/3/library/venv.html) environments, which are really helpful.
+
+## Haskell
+
+I am also tinkering with the functional language of Haskell, some projects may appear here over time but I'm not very focused on learning it intensively. I figured it was worth a mention since it is a fairly niche functional language.
+
+# Highlighted Projects
+
+This is looking awful empty... at least for now, once I finish some things up, this section is going to grow quite large...
+
+# [GitHub Stats](https://gh-stats-gen.vercel.app/)
+
+**An overview of my profile:**
+
+![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+
+**My top languages:**
+
+![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
+**My total commits and longest streak of activity:**
+
+![wellbutteredtoast's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wellbutteredtoast&theme=material-palenight&hide_border=true)

@@ -1,8 +1,8 @@
 I am Sam, a full time student of the [Memorial University of Newfoundland](https://mun.ca), majoring in the field of Computer Science, minoring in Statistics. I currently do not work in the field of tech, however I am growing my network in the local community. I like cats, and nice to read code (for the most part).
 
 
-![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&count_private=true)
+![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 # Primary Development Languages
 

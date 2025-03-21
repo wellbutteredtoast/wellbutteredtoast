@@ -26,7 +26,7 @@ C++ is a powerful language, and it was quite the step up from Python when I star
 
 ## [Rust](https://www.rust-lang.org/)
 
-Rust is the newest language in my repetoire. Being a bit more dense than C++, and having a more pedantic compilation system. Rust is insanely fast, and extremely powerful. So far I have been using it to write CLI tools such as my currently WIP [rfzf](https://github.com/wellbutteredtoast/fuzzyfind-rs), which is a Rust re-write of the already existing [fzf](https://github.com/junegunn/fzf) utility. I believe that when it comes to level and secure systems, Rust is the future in my opinion. I will continue to use both C++ *and* Rust for the forseeable future.
+Rust is the newest language in my repetoire. Being a bit more dense than C++, and having a more pedantic compilation system. Rust is insanely fast, and extremely powerful. I believe that when it comes to level and secure systems, Rust is the future in my opinion. I will continue to use both C++ *and* Rust for the forseeable future.
 
 ## [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 
@@ -34,5 +34,5 @@ Bash is a really helpful language for working in a UNIX environment, such as a L
 
 # Highlighted Projects
 
-[rfzf](https://github.com/wellbutteredtoast/fuzzyfind-rs) - A Rust-built TUI file finder
+Someday...
 

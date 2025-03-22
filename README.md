@@ -16,9 +16,9 @@ For me; Python is a productive language because of how quickly I can spin up a s
 
 Go is an interesting language, it's got the "you're in control" feeling of C and C++ but with the batteries-included power of many other languages. Go just works for me, its concurrency has been a game-changer in some of my yet-to-be-published projects. Alongisde Rust and some other newer lower level language, I can see Go being hailed in the future as one of **the** languages to know and master to work in tech.
 
-## [Java](https://www.java.com/en/) / [Kotlin](https://kotlinlang.org/)
+<!-- ## [Java](https://www.java.com/en/) / [Kotlin](https://kotlinlang.org/)
 
-I will say it, I do not like working with Java. I find its syntax verbose and agonizing, I'll continue to use it considering some big tools are reliant on it. Kotlin is better in terms of syntax, most of the time. At the end of the day these langauges are both fine, productive languages, but I've personally found Java to be a headache and Kotlin to be a slight breath of fresh air when using the JVM.
+I will say it, I do not like working with Java. I find its syntax verbose and agonizing, I'll continue to use it considering some big tools are reliant on it. Kotlin is better in terms of syntax, most of the time. At the end of the day these langauges are both fine, productive languages, but I've personally found Java to be a headache and Kotlin to be a slight breath of fresh air when using the JVM. -->
 
 <!-- ## C++
 

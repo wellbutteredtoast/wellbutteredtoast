@@ -20,7 +20,7 @@ Go is an interesting language, it's got the "you're in control" feeling of C and
 
 I will say it, I do not like working with Java. I find its syntax verbose and agonizing, I'll continue to use it considering some big tools are reliant on it. Kotlin is better in terms of syntax, most of the time. At the end of the day these langauges are both fine, productive languages, but I've personally found Java to be a headache and Kotlin to be a slight breath of fresh air when using the JVM. -->
 
-## C++ / C
+## [C++ / C](https://en.cppreference.com/w/)
 
 C++ is a powerful language, and it was quite the step up from Python when I started learning C++. I'm learning C++ because of its use in all parts of software development, from applications to game engines to low level systems like the Windows Kernel and many embedded devices and IoT systems around the world. I also tinker with graphics and game development in C++, but as of the time of writing of this I don't have anything that is worth sharing (yet).
 

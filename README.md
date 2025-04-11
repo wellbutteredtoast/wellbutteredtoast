@@ -6,6 +6,17 @@ I am Sam, a full time student of the [Memorial University of Newfoundland](https
 
 # Primary Development Languages
 
+| Language | Rationale | Experience / Skill |
+| -------- | --------- | ------------------ |
+| Python   | A ubiquitous programming language that can do many tasks. | Intermediate (4y) |
+| Lua | A super small, super fast scripting language | Intermediate (2y) |
+| C++ | An extremely powerful language, usually in projects like games or IoT. | Beginner (<2y) |
+| Go | Weird, but pretty cool and productive. | Beginner (<1y) |
+| Ruby | An expressive, unique language I picked up as a hobby. | Beginner (<1y) |
+| JS | Not a fan of web development, but I *can* use JS. | Beginner (<1y) |
+| Rust | The syntax is dense, the compiler is pedantic, but it **works.** | Beginner (<1y) |
+
+<!--
 ## [Python](https://www.python.org/)
 
 My most proficient programming language by years of experience is Python. I started learning Python in my spare time during the lockdowns of 2020. I use it primarily for small projects and LeetCode problems, and occasional game development prototypes in [pygame-ce](https://pyga.me). Python is also the language I primarily use on campus. 
@@ -18,7 +29,7 @@ Go is an interesting language, it's got the "you're in control" feeling of C and
 
 <!-- ## [Java](https://www.java.com/en/) / [Kotlin](https://kotlinlang.org/)
 
-I will say it, I do not like working with Java. I find its syntax verbose and agonizing, I'll continue to use it considering some big tools are reliant on it. Kotlin is better in terms of syntax, most of the time. At the end of the day these langauges are both fine, productive languages, but I've personally found Java to be a headache and Kotlin to be a slight breath of fresh air when using the JVM. -->
+I will say it, I do not like working with Java. I find its syntax verbose and agonizing, I'll continue to use it considering some big tools are reliant on it. Kotlin is better in terms of syntax, most of the time. At the end of the day these langauges are both fine, productive languages, but I've personally found Java to be a headache and Kotlin to be a slight breath of fresh air when using the JVM.
 
 ## [C++ / C](https://en.cppreference.com/w/)
 
@@ -31,8 +42,9 @@ Rust is the newest language in my repetoire. Being a bit more dense than C++, an
 ## [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 
 Bash is a really helpful language for working in a UNIX environment, such as a Linux server, or my Mac that I carry with me. Bash is quirky, and helpful when doing shell shenanigans. I wouldn't exactly use it for anything *big*, but small utilities that are quickly pulled together is what I use it for most, also Python [(venv)](https://docs.python.org/3/library/venv.html) environments, which are really helpful.
-
+-->
 # Highlighted Projects
 
-Someday...
+[py-asteroids](https://github.com/wellbutteredtoast/pysteroids): An asteroids-like game written in plain Python, only relying on [pygame](https://pyga.me)
+[MMGUI](https://github.com/wellbutteredtoast/mmgui): A GUI editor thing meant for a long dead game project, also in Python.
 

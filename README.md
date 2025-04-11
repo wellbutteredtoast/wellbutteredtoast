@@ -46,5 +46,6 @@ Bash is a really helpful language for working in a UNIX environment, such as a L
 # Highlighted Projects
 
 [py-asteroids](https://github.com/wellbutteredtoast/pysteroids): An asteroids-like game written in plain Python, only relying on [pygame](https://pyga.me)
+
 [MMGUI](https://github.com/wellbutteredtoast/mmgui): A GUI editor thing meant for a long dead game project, also in Python.
 

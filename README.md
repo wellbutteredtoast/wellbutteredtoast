@@ -1,4 +1,4 @@
-I am Sam, a full time student of the [Memorial University of Newfoundland](https://mun.ca), majoring in the field of Computer Science, minoring in Statistics. I currently do not work in the field of tech, however I am growing my network in the local community. I like cats, and nice to read code (for the most part).
+I am Sam, a full time student of the [Memorial University of Newfoundland](https://mun.ca), majoring in the Education at a Post-Secondary level. I currently do not work in the field of tech, however I am growing my network in the local community. I like cats, and nice to read code (for the most part). I plan on teaching Computer Science courses at a fairly high level as a professor. This Github repository is my personal archive and storage, any and all projects I've worked on since September 2024 will be placed here. 
 
 
 ![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&count_private=true)

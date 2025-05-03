@@ -13,6 +13,7 @@ I am Sam, a full time student of the [Memorial University of Newfoundland](https
 | C++ | An extremely powerful language, usually in projects like games or IoT. | Beginner (<2y) |
 | Go | Weird, but pretty cool and productive. | Beginner (<1y) |
 | Ruby | An expressive, unique language I picked up as a hobby. | Beginner (<1y) |
+| C# | Microsoft, OOP heavy, it's fine. | Beginner (<2y) |
 <!-- | JS | Not a fan of web development, but I *can* use JS. | Beginner (<1y) |
 | Rust | The syntax is dense, the compiler is pedantic, but it **works.** | Beginner (<1y) |-->
 

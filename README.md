@@ -8,9 +8,9 @@ I am Sam, a full time student of the [Memorial University of Newfoundland](https
 
 | Language | Rationale | Experience / Skill |
 | -------- | --------- | ------------------ |
-| Python   | A ubiquitous programming language that can do many tasks. | Intermediate (4y) |
+| Python   | A ubiquitous programming language that can do many tasks. | Intermediate (5y) |
 | Lua | A super small, super fast scripting language | Intermediate (2y) |
-| C++ | An extremely powerful language, usually in projects like games or IoT. | Beginner (<2y) |
+| C++ | An extremely powerful language, usually in projects like games or IoT. | Beginner (<3y) |
 | Go | Weird, but pretty cool and productive. | Beginner (<1y) |
 | Ruby | An expressive, unique language I picked up as a hobby. | Beginner (<1y) |
 | C# | Microsoft, OOP heavy, it's fine. | Beginner (<2y) |

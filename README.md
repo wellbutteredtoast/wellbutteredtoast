@@ -4,7 +4,7 @@ I am Sam, a full time student of the [Memorial University of Newfoundland](https
 ![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-# Primary Development Languages
+<!-- # Primary Development Languages
 
 | Language | Rationale | Experience / Skill |
 | -------- | --------- | ------------------ |
@@ -13,7 +13,7 @@ I am Sam, a full time student of the [Memorial University of Newfoundland](https
 | C++ | An extremely powerful language, usually in projects like games or IoT. | Beginner (<3y) |
 | Go | Weird, but pretty cool and productive. | Beginner (<1y) |
 | Ruby | An expressive, unique language I picked up as a hobby. | Beginner (<1y) |
-| C# | Microsoft, OOP heavy, it's fine. | Beginner (<2y) |
+| C# | Microsoft, OOP heavy, it's fine. | Beginner (<2y) | -->
 <!-- | JS | Not a fan of web development, but I *can* use JS. | Beginner (<1y) |
 | Rust | The syntax is dense, the compiler is pedantic, but it **works.** | Beginner (<1y) |-->
 
@@ -49,4 +49,6 @@ Bash is a really helpful language for working in a UNIX environment, such as a L
 [py-asteroids](https://github.com/wellbutteredtoast/pysteroids): An asteroids-like game written in plain Python, only relying on [pygame](https://pyga.me)
 
 [MMGUI](https://github.com/wellbutteredtoast/mmgui): A GUI editor thing meant for a long dead game project, also in Python.
+
+[Caverns of Titan](https://github.com/wellbutteredtoast/caverns-of-titan): A game project made in one month for a game jam, written in Rust.
 

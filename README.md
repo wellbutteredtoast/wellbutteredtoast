@@ -50,5 +50,3 @@ Bash is a really helpful language for working in a UNIX environment, such as a L
 
 [MMGUI](https://github.com/wellbutteredtoast/mmgui): A GUI editor thing meant for a long dead game project, also in Python.
 
-[Caverns of Titan](https://github.com/wellbutteredtoast/caverns-of-titan): A game project made in one month for a game jam, written in Rust.
-

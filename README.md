@@ -1,8 +1,8 @@
 I am Sam, a full time student of the [Memorial University of Newfoundland](https://mun.ca), majoring in the Education at a Post-Secondary level. I currently do not work in the field of tech, however I am growing my network in the local community. I like cats, and nice to read code (for the most part). I plan on teaching Computer Science courses at a fairly high level as a professor. This Github repository is my personal archive and storage. Mostly personal projects will be dropped here.
 
 
-![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&count_private=true)
-![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&layout=compact)
+<!-- ![wellbutteredtoast's Stats](https://github-readme-stats.vercel.app/api?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&count_private=true) -->
+<!-- ![wellbutteredtoast's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbutteredtoast&theme=react&show_icons=true&hide_border=true&layout=compact)-->
 
 <!-- # Primary Development Languages
 
@@ -12,8 +12,8 @@ I am Sam, a full time student of the [Memorial University of Newfoundland](https
 | Lua | A super small, super fast scripting language | Intermediate (2y) |
 | C++ | An extremely powerful language, usually in projects like games or IoT. | Beginner (<3y) |
 | Go | Weird, but pretty cool and productive. | Beginner (<1y) |
+| C# | Microsoft, OOP heavy, it's fine. | Beginner (<2y) |
 | Ruby | An expressive, unique language I picked up as a hobby. | Beginner (<1y) |
-| C# | Microsoft, OOP heavy, it's fine. | Beginner (<2y) | -->
 <!-- | JS | Not a fan of web development, but I *can* use JS. | Beginner (<1y) |
 | Rust | The syntax is dense, the compiler is pedantic, but it **works.** | Beginner (<1y) |-->
 
@@ -44,9 +44,4 @@ Rust is the newest language in my repetoire. Being a bit more dense than C++, an
 
 Bash is a really helpful language for working in a UNIX environment, such as a Linux server, or my Mac that I carry with me. Bash is quirky, and helpful when doing shell shenanigans. I wouldn't exactly use it for anything *big*, but small utilities that are quickly pulled together is what I use it for most, also Python [(venv)](https://docs.python.org/3/library/venv.html) environments, which are really helpful.
 -->
-# Highlighted Projects
-
-[py-asteroids](https://github.com/wellbutteredtoast/pysteroids): An asteroids-like game written in plain Python, only relying on [pygame](https://pyga.me)
-
-[MMGUI](https://github.com/wellbutteredtoast/mmgui): A GUI editor thing meant for a long dead game project, also in Python.
 
